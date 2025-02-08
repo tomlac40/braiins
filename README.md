@@ -7,7 +7,7 @@ Home assistant component for Braiins pool mining
 
 1. Using the tool of choice open the directory (folder) for your HA configuration (where you find `configuration.yaml`).
 1. If you do not have a `custom_components` directory (folder) there, you need to create it.
-1. In the `custom_components` directory (folder) create a new folder called `nicehash`.
+1. In the `custom_components` directory (folder) create a new folder called `braiins`.
 1. Download _all_ the files from the `custom_components/braiins/` directory (folder) in this repository.
 1. Place the files you downloaded in the new directory (folder) you created.
 1. Add wanted currency to `configuration.yaml`
