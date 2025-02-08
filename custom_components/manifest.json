@@ -2,7 +2,7 @@
     "domain": "braiins",
     "name": "Braiins API",
     "version": "1.0",
-    "documentation": "https://github.com/tomlac40/braiins,
+    "documentation": "https://github.com/tomlac40/braiins",
     "dependencies": [],
     "codeowners": ["@tomlac40"],
     "issue_tracker": "https://github.com/tomlac40/braiins/issues",
