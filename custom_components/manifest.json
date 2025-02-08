@@ -5,6 +5,6 @@
     "documentation": "https://github.com/tomlac40/braiins,
     "dependencies": [],
     "codeowners": ["@tomlac40"],
-    "issue_tracker": "https://github.com/tomlac40/braiins/issues"
+    "issue_tracker": "https://github.com/tomlac40/braiins/issues",
     "requirements": ["requests"]
 }
